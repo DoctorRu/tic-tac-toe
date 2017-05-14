@@ -1,6 +1,6 @@
 # tic-tac-toe
 <br>
-Game: Tic Tac Toe with Gosu<br>
+Game: Tic Tac Toe<br>
 Language: Ruby<br>
 GUI: Gosu<br>
 <br>
